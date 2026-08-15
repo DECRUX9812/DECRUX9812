@@ -7,7 +7,7 @@ I build practical software in Regina, Saskatchewan—mostly tools that connect A
 - **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** — local-first agent tooling, gateways, memory, and desktop plugins
 - **[FreeRouter](https://github.com/DECRUX9812/freerouter)** — self-hosted model routing with your own provider keys
 - **[EUV Playground](https://github.com/DECRUX9812/euv-playground)** — computable EUV lithography and multilayer-optics experiments
-- **[Agri-X Tractor Diagnostics](https://github.com/DECRUX9812/tractor_diagnostics)** — fault-code lookup and field diagnostics for Western Canadian agriculture
+- **Agri-X Tractor Diagnostics (private)** — fault-code lookup and field diagnostics for Western Canadian agriculture
 - **IRON OS** — an operating-system and agent-runtime project, currently private
 
 ## Tools I use
